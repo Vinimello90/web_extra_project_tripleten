@@ -1,5 +1,3 @@
-# TripleTen
-
 # Projeto: Tripleten - Aprendendo a Aprender
 
 A página da Tripleten, é projeto extra de uma pagina divida em seções mostrando várias técnicas e metodologias de aprendizado eficazes,
