@@ -1,6 +1,6 @@
 # Aprendendo a Aprender
 
-A página **Aprendendo a Aprender** foi desenvolvida em HTML e CSS, com o uso de animações para tornar a experiência mais dinâmica. Ela é dividida em seções que apresentam diversas técnicas e metodologias de aprendizado eficazes e conta com um `iframe` para incorporar vídeos do YouTube.
+A página **Aprendendo a Aprender** foi desenvolvida em HTML e CSS, com o uso de animações para tornar a experiência mais dinâmica. Ela é dividida em seções que apresentam diversas técnicas e metodologias de aprendizado eficazes e conta com um **iframe** para incorporar vídeos do YouTube.
 
 <p align="center"><img src="./images/page.png" alt="captura de tela do projeto Aprendendo a Aprender" width="40%"></p>
 
