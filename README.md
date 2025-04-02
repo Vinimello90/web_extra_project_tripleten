@@ -1,6 +1,6 @@
 # Aprendendo a Aprender
 
-A página **Aprendendo a Aprender** foi desenvolvida em HTML e CSS, com o uso de animações para tornar a experiência mais dinâmica. Ela é dividida em seções que apresentam diversas técnicas e metodologias de aprendizado eficazes e conta com um **iframe** para incorporar vídeos do YouTube.
+A página **Aprendendo a Aprender** foi desenvolvida em HTML e CSS, com o uso de animações para tornar a experiência mais dinâmica. Ela é dividida em seções que apresentam diversas técnicas e metodologias de aprendizado eficazes e conta com um `iframe` para incorporar vídeos do YouTube.
 
 <p align="center"><img src="./images/page.png" alt="captura de tela do projeto Aprendendo a Aprender" width="40%"></p>
 
@@ -26,16 +26,16 @@ A **metodologia BEM (Bloco, Elemento, Modificador)** foi aplicada para organizar
 
 ### Flexbox
 
-A utilização de **Flexbox** garante melhor distribuição do layout e organiza os elementos de forma mais responsiva.
+A utilização de `flexbox` garante melhor distribuição do layout e organiza os elementos de forma mais responsiva.
 
 ### iframe
 
-A tag **iframe** foi utilizada para incorporar vídeos diretamente na página, permitindo que os usuários assistam ao conteúdo sem precisar ser redirecionados para outra página.
+A tag `iframe` foi utilizada para incorporar vídeos diretamente na página, permitindo que os usuários assistam ao conteúdo sem precisar ser redirecionados para outra página.
 
 <img src="./images/page-iframe.png" alt="captura de tela do projeto Aprendendo a Aprender">
 
 ### CSS Animations
 
-Utilizei a propriedade **animation** juntamente com a regra CSS **@keyframes** para criar animações que rotacionam as formas ao fundo da página, adicionando dinamismo ao layout.
+Utilizei a propriedade `animation` juntamente com a regra CSS `@keyframes` para criar animações que rotacionam as formas ao fundo da página, adicionando dinamismo ao layout.
 
 <img src="./images/page-animation.gif" alt="captura de tela do projeto Aprendendo a Aprender">
