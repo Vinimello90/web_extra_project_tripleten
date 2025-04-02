@@ -6,7 +6,7 @@ A página **Aprendendo a Aprender** foi desenvolvida em HTML e CSS, com o uso de
 
 **Veja o projeto em execução clicando [aqui](https://vinimello90.github.io/web_extra_project_tripleten/).**
 
-## Recursos do Projeto
+## Tecnologias e Métodos
 
 - HTML5 semântico
 - Metodologia BEM
