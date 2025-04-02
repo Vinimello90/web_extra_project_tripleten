@@ -18,24 +18,24 @@ A página **Aprendendo a Aprender** foi desenvolvida em HTML e CSS, com o uso de
 
 ### HTML Semântico
 
-O uso de `HTML semântico` torna o código mais legível e acessível, facilitando a manutenção e melhorando a compreensão do conteúdo.
+O uso de **HTML semântico** torna o código mais legível e acessível, facilitando a manutenção e melhorando a compreensão do conteúdo.
 
 ### Metodologia BEM
 
-A `metodologia BEM` (Bloco, Elemento, Modificador) foi aplicada para organizar as classes CSS, o que facilita a escalabilidade e a manutenção do código.
+A **metodologia BEM (Bloco, Elemento, Modificador)** foi aplicada para organizar as classes CSS, o que facilita a escalabilidade e a manutenção do código.
 
 ### Flexbox
 
-A utilização de `Flexbox` garante melhor distribuição do layout e organiza os elementos de forma mais responsiva.
+A utilização de **Flexbox** garante melhor distribuição do layout e organiza os elementos de forma mais responsiva.
 
-### Iframe
+### iframe
 
-A tag `iframe` foi utilizada para incorporar vídeos diretamente na página, permitindo que os usuários assistam ao conteúdo sem precisar ser redirecionados para outra página.
+A tag **iframe** foi utilizada para incorporar vídeos diretamente na página, permitindo que os usuários assistam ao conteúdo sem precisar ser redirecionados para outra página.
 
 <img src="./images/page-iframe.png" alt="captura de tela do projeto Aprendendo a Aprender">
 
 ### CSS Animations
 
-Utilizei a propriedade `animation` juntamente com a regra CSS `@keyframes` para criar animações que rotacionam as formas ao fundo da página, adicionando dinamismo ao layout.
+Utilizei a propriedade **animation** juntamente com a regra CSS **@keyframes** para criar animações que rotacionam as formas ao fundo da página, adicionando dinamismo ao layout.
 
 <img src="./images/page-animation.gif" alt="captura de tela do projeto Aprendendo a Aprender">
